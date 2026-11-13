@@ -1,0 +1,4 @@
+interface:
+  display_name: "微缩三渲二场景视频"
+  short_description: "从文字或参考图搭建微缩三维景观，以连续运镜、生活化动效和配乐输出视频"
+  default_prompt: "使用 $miniature-scene-video，根据我的文字或参考图制作微缩三渲二场景视频，按约定规格出片并报告计时。"

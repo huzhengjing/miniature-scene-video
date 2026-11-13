@@ -1,0 +1,15 @@
+{
+  "case": "sunset-basketball-fixed-light",
+  "frames": 768,
+  "duration_seconds": 32,
+  "fps": 24,
+  "width": 960,
+  "height": 540,
+  "loop_seconds_approx": 384,
+  "mean_loop_seconds_per_frame_approx": 0.5,
+  "temporal_subrenders": 941,
+  "source_log": "done work/basketball-fixed-light-silent.mp4 renders 941 in 6.4 min",
+  "timer_boundary": "Old rendering loop through encoder completion, excludes browser startup, loading, music generation and later audio mux.",
+  "rounding": "6.4 minutes was rounded to one decimal place. Full-job elapsed time is unavailable.",
+  "full_job_seconds": null
+}
